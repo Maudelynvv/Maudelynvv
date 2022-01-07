@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maudelynvv
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JS/HTML/CSS/PYTHON
